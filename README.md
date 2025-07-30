@@ -34,22 +34,23 @@ A powerful admin dashboard to help hotel/villa staff manage all aspects of reser
 <br>
 
 <p>
-  <img src="./screenshots/d9.png" width="500" /><br>
-  <strong>Check-in and check-out management</strong>
-</p>
-<br>
-
-<p>
   <img src="./screenshots/d4.png" width="500" /><br>
   <strong>Cabins Table</strong>
 </p>
 <br>
 
 <p>
-  <img src="./screenshots/d9.png" width="500" /><br>
+  <img src="./screenshots/d10.png" width="500" /><br>
   <strong>Modify cabin details</strong>
 </p>
 <br>
+
+<p>
+  <img src="./screenshots/d9.png" width="500" /><br>
+  <strong>Check-in and check-out management</strong>
+</p>
+<br>
+
 <p>
   <img src="./screenshots/d5.png" width="500" /><br>
   <strong>Create a new staff user</strong>
@@ -81,14 +82,7 @@ A powerful admin dashboard to help hotel/villa staff manage all aspects of reser
 
 - **Framework**: React (Vite)
 - **State/Data**: React Query, Redux Toolkit
+- **Backend**: Supabase (Auth, Database)
 - **Styling**: Tailwind CSS
 - **Auth**: Custom Auth Implementation
 - **Deployment**: Vercel
-
-## 📦 Installation
-
-```bash
-git clone https://github.com/your-username/villa-admin-dashboard.git
-cd villa-admin-dashboard
-npm install
-npm run dev
