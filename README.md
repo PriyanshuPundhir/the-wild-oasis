@@ -11,6 +11,7 @@ A powerful admin dashboard to help hotel/villa staff manage all aspects of reser
   <strong>Use these credessentials :-</strong>
   <br>User name - priyanshu2@gmail.com
   <br>password - 654321
+  <br>and click on Dummy Data -> Upload All (to see latest dummy booking)
 </p>
 
 ## 📸 Screenshots
