@@ -17,43 +17,54 @@ A powerful admin dashboard to help hotel/villa staff manage all aspects of reser
 
 <p>
   <img src="./screenshots/D1.png" width="500" /><br>
-  <strong>Booking dashboard with metrics and charts</strong>
+  <strong>Booking dashboard with metrics and charts 1</strong>
 </p>
 <br>
 
 <p>
   <img src="./screenshots/d2.png" width="500" /><br>
-  <strong>Filtered and sorted bookings table</strong>
+  <strong>Booking dashboard with metrics and charts 2</strong>
 </p>
 <br>
 
 <p>
   <img src="./screenshots/d3.png" width="500" /><br>
-  <strong>Cabin editor: add, modify, or delete cabins</strong>
+  <strong>Filtered and sorted bookings table</strong>
 </p>
 <br>
 
 <p>
-  <img src="./screenshots/d4.png" width="500" /><br>
+  <img src="./screenshots/d9.png" width="500" /><br>
   <strong>Check-in and check-out management</strong>
 </p>
 <br>
 
 <p>
+  <img src="./screenshots/d4.png" width="500" /><br>
+  <strong>Cabins Table</strong>
+</p>
+<br>
+
+<p>
+  <img src="./screenshots/d9.png" width="500" /><br>
+  <strong>Modify cabin details</strong>
+</p>
+<br>
+<p>
   <img src="./screenshots/d5.png" width="500" /><br>
-  <strong>Dark mode UI with responsive layout</strong>
+  <strong>Create a new staff user</strong>
 </p>
 <p>
   <img src="./screenshots/d6.png" width="500" /><br>
-  <strong>Dark mode UI with responsive layout</strong>
+  <strong>Update general settings related to hotel</strong>
 </p>
 <p>
   <img src="./screenshots/d7.png" width="500" /><br>
-  <strong>Dark mode UI with responsive layout</strong>
+  <strong>Update your password</strong>
 </p>
 <p>
   <img src="./screenshots/d8.png" width="500" /><br>
-  <strong>Dark mode UI with responsive layout</strong>
+  <strong>Dark mode UI</strong>
 </p>
 
 ## ✨ Features
